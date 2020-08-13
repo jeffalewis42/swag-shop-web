@@ -1,0 +1,16 @@
+.productcondensedlistitem{
+    padding: 0;
+    border: 0;
+}
+
+.wishlistremove {
+    padding: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+.productcondenseditem {
+    text-align: left;
+}
